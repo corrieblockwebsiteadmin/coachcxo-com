@@ -1,0 +1,358 @@
+{
+  "site": {
+    "domain": "coachcxo.com",
+    "title": "Top 10 Executive Coaches — GCC",
+    "tagline": "An editorial ranking of executive coaches practising in the Gulf, curated on published evidence.",
+    "edition": "Q3 2026",
+    "published": "2026-08-10",
+    "next_review": "2027-01-10",
+    "curator": "Dr Corrie Jonn Block",
+    "contact": "admin@coachcxo.com"
+  },
+  "editorial_note": [
+    "This list asks a different question from its global sister ranking. A trade book with international distribution is a weak proxy for effectiveness in the Gulf, where much of the strongest work is done inside national talent programmes, family-business succession and public-sector leadership development. Ranking Gulf practitioners against a global bibliography would produce a list of expatriate authors rather than the best coaches in the region. Publication therefore carries less weight here, and regional contribution carries more.",
+    "<strong>Every credential below was checked, and most could not be verified the way readers assume.</strong> ICF's Credentialed Coach Finder is an application that cannot be queried by URL, and ICF itself states that \"the qualifications of coaches listed, and the information provided is not verified by ICF in any way.\" Where this list says a credential is verified, it means it appears on an ICF-owned property — strong, but not a registry lookup. Exactly one credential in the entire study was confirmed against the issuing body's own record: Carolann Philips's MCC, on Credly.",
+    "<strong>Two award programmes are excluded outright.</strong> Thinkers360 rankings are membership and self-nomination driven, not independent assessments, and are not treated as recognition here regardless of how they are described elsewhere. The same applies to commercial pay-to-attend industry award programmes, which are cited as self-reported where they appear at all.",
+    "<strong>Nine of the ten below are women.</strong> That is what the evidence produced rather than a target. Every candidate whose credentials could be corroborated on an ICF-owned property was female, and each of the three men in the researched pool carried a disqualifying issue under this methodology — one is an in-house corporate coach a reader cannot hire, one holds no coaching credential, and one asserts two different ICF levels and two different doctoral statuses on a single page.",
+    "<strong>Disclosed gap.</strong> Saudi Arabia is under-represented. The ICF Saudi chapter site blocks automated access, so its leadership could not be resolved. That is a limitation of this edition, not a judgement about Saudi practice, and it is the first thing the January review will address."
+  ],
+  "coaches": [
+    {
+      "rank": 1,
+      "slug": "jihane-labib",
+      "name": "Jihane Labib",
+      "location": "United Arab Emirates and Morocco",
+      "role": "Founder and CEO, CoachingLab Academy; Chair, ICF Professional Coaches Global Board 2026",
+      "links": [
+        {
+          "label": "jihanelabib.com",
+          "url": "https://jihanelabib.com/"
+        },
+        {
+          "label": "CoachingLab Academy",
+          "url": "https://www.coachinglabacademy.com/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jihanelabib/"
+        },
+        {
+          "label": "ICF profile",
+          "url": "https://coachingfederation.org/person/jihane-labib-actc-mcc/"
+        }
+      ],
+      "bio": "Executive and team coach, and founder of CoachingLab Academy, an ICF Level 1 and Level 2 accredited coach-training provider. ICF's own profile records 15+ years in practice, more than 10,000 coaching hours across 20 countries, and twelve prior years as a marketing and communications director in multinationals, with client sectors spanning FMCG, banking, oil and gas, telecommunications and media.",
+      "assessment": [
+        "She holds the strongest institutional position of any coach in this region: Chair of the ICF Professional Coaches Global Board for 2026, published by ICF itself in its own board announcement. Her MCC and ACTC credentials are corroborated on ICF's own person page rather than only in her marketing — which, given how little in this field survives that test, is the single most important thing about this entry.",
+        "Running an accredited Level 1 and Level 2 training provider means she is building capacity for other coaches in a region that has very little of it. On the generosity criterion that counts for considerably more than an individual practice."
+      ],
+      "notes": [
+        "Described here as UAE and Morocco, per ICF's own listing, not as a Dubai coach. Her offices are in Casablanca and the Sharjah SPC Free Zone.",
+        "Several claims on her own site are excluded because no awarding body or year could be verified: a \"Best executive coach 2023\" title, MENA Coaching Summit recognition, and an Education 2.0 Conference innovation award which, if real, went to the academy rather than to her.",
+        "\"First Arab elected to the ICF Global Board\" and an EMCC Master Practitioner accreditation are self-claimed and unverified. Performance statistics on her book page are unsourced and are not repeated."
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "lina-el-assaad",
+      "name": "Lina El Assaad",
+      "location": "United Arab Emirates",
+      "role": "Executive and team coach; Chairperson, ICF Governance Committee; past President, ICF UAE",
+      "links": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/lina-el-assaad/"
+        },
+        {
+          "label": "ICF profile",
+          "url": "https://coachingfederation.org/person/lina-el-assaad-pcc/"
+        }
+      ],
+      "bio": "Executive, leadership and team coach with more than two decades supporting C-suite leaders, senior government officials and members of royal families, with work across Fortune 500 organisations. Past President of ICF UAE, Chairperson of the ICF Governance Committee, an AoEC coach trainer and a Harvard Business Review Council contributor.",
+      "assessment": [
+        "She holds the only ICF global individual award ever made to a GCC-based coach. ICF's own past-winners archive lists \"Lina El Assaad, PCC (UAE)\" as an Accomplished Coach for 2023 — and a sweep of that archive from 2005 to 2025 turns up no other person based in the Gulf. On independent third-party recognition, which this methodology weights above self-description, nothing else in the region comes close.",
+        "Two decades of practice at head-of-state and royal-family level is a tier of work almost no one in this study can evidence, and her governance roles at ICF are elected by peers rather than purchased."
+      ],
+      "notes": [
+        "ICF's profile also describes her as the first PCC to receive its Coaching Impact Award. That is ICF referring to the same award family, not a second honour, and it is not double-counted here.",
+        "She has no personal website, which is a genuine gap for a public ranking and the main reason she is not ranked first.",
+        "Holds PCC rather than MCC; no other credential is stated on ICF's page. No books."
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "clare-beckett-mcinroy",
+      "name": "Dr Clare Beckett-McInroy",
+      "location": "Doha, Qatar",
+      "role": "Founder, BECKETT MCINROY Consultancy; creator of the CoachME model and TAP360",
+      "links": [
+        {
+          "label": "beckett-mcinroy.com",
+          "url": "https://beckett-mcinroy.com"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/drclarebeckett-mcinroymcc/"
+        },
+        {
+          "label": "ICF profile",
+          "url": "https://coachingfederation.org/person/clare-beckett-mcinroy/"
+        }
+      ],
+      "bio": "Founder of BECKETT MCINROY Consultancy and originator of the CoachME coaching model and the TAP360 team profiling tool. She co-founded ICF Bahrain, where she was Vice President, and ICF Doha–Qatar, where she was President, and has contributed subject-matter expertise on team coaching and supervision to ICF headquarters. EdD, University of Bath.",
+      "assessment": [
+        "MCC and ACTC corroborated on ICF's own person page, plus a doctorate from a serious university — an unusual combination in this field, where research training and coaching credentials rarely sit together. Her CoachME model and TAP360 instrument are published tools other practitioners use rather than proprietary language wrapped around standard practice.",
+        "CoachME was named ICF Distinguished Coaching Education Provider in 2023, confirmed verbatim on ICF's own past-winners page. She was also the nominating coach behind the Qatar Financial Centre's 2020 ICF Middle East Prism Award, documented in ICF's own published case study. Co-founding two national ICF chapters is infrastructure work that outlasts any individual practice."
+      ],
+      "notes": [
+        "The 2023 ICF award is organisational — it went to CoachME and the consultancy, not to her personally. Recorded accordingly.",
+        "\"EMCC Coach of the Year\" appears on her own site with no year attached and could not be verified. It is excluded.",
+        "ICF describes her as author of five books, but no publisher or year could be verified for any of them, and an earlier ICF profile said two. No book count is printed. A \"Certified Agile Coach\" credential names no issuing body. Her company is registered in Manchester, UK, while she practises from Doha."
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "carolann-philips",
+      "name": "Carolann Philips",
+      "location": "Muscat, Oman",
+      "role": "Executive coach and talent-development consultant; President, ICF Oman Chapter 2025–26",
+      "links": [
+        {
+          "label": "caphilips.com",
+          "url": "https://caphilips.com/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/carolannphilipsoman/"
+        },
+        {
+          "label": "MCC badge (Credly)",
+          "url": "https://www.credly.com/badges/ae90867f-b2bb-4086-bbe0-33368d13e079"
+        }
+      ],
+      "bio": "Executive coach, behavioural-skills trainer and talent-development consultant with more than 25 years across the Middle East and Asia, resident in Oman for over 30 years. Vice President of the ICF Oman Chapter from 2023 and President for the 2025–26 term. Her earlier career included learning and development at Bank Muscat.",
+      "assessment": [
+        "Hers is the only credential in this entire study verified against the issuing body's own record. Her MCC appears on Credly, the platform ICF Credentials and Standards itself uses to issue badges — not on an ICF profile page, not in her own marketing, but at source. Everything else in this field rests on weaker evidence, and that distinction is worth more than a shelf of industry awards.",
+        "Her credential stack is unusually broad and independently issued — CPTD from the Association for Talent Development, GPHR from the HR Certification Institute, CELTA from Cambridge, SHL assessment certifications. <em>Honestly, What Do I Do?</em> was published by Notion Press in February 2026."
+      ],
+      "notes": [
+        "Four awards appear in her materials — from the World HRD Congress (2017) and the Middle East Training &amp; Development Awards (2019). Both are commercial, pay-to-attend industry programmes with limited editorial standing, and they are recorded here as self-reported rather than as independent validation.",
+        "ICF Oman's board pages show her as PCC in 2023 and MCC in 2025–26, consistent with an upgrade; any credential reference should be dated.",
+        "She holds a dual role — personal practice plus Managing Director of Hallmark Training Institute. Disclosed."
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "leila-rezaiguia",
+      "name": "Leila Rezaiguia",
+      "location": "Dubai, United Arab Emirates",
+      "role": "Co-Founder and Managing Partner, Kompass Consultancy; Head of the Academy of Executive Coaching, UAE",
+      "links": [
+        {
+          "label": "kompassconsultancy.com",
+          "url": "https://kompassconsultancy.com/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/leila-rezaiguia/"
+        },
+        {
+          "label": "AoEC people directory",
+          "url": "https://www.aoec.com/about-us/our-people/"
+        }
+      ],
+      "bio": "Co-Founder and Managing Partner of Kompass Consultancy in Dubai and Head of the Academy of Executive Coaching in the UAE, confirmed on AoEC's own people directory. Executive and systemic team coach, accredited coach supervisor and ICF mentor coach with 23–25 years across public and private sectors, coaching in English, Arabic and French.",
+      "assessment": [
+        "Heading AoEC in the UAE is verifiable on AoEC's own site and is not a badge that can be bought — the distinction that separates real standing from purchased standing runs through this entire ranking, and she is on the right side of it. Kompass has been AoEC's delivery partner across the GCC and Levant since 2018.",
+        "Her client evidence is among the most concrete in the region: named testimonials from the CEO of Abu Dhabi Finance and the Chief of Corporate Affairs at the Dubai Future Foundation, plus a five-year partnership with INSEAD's Career Development for Working Professionals. Named senior clients willing to be quoted are rarer and more informative than award counts."
+      ],
+      "notes": [
+        "PCC and EMCC EIA are firm-stated and could not be registry-confirmed. \"NLP\" is listed with no issuing body and is disregarded.",
+        "A separate ESIA supervision accreditation appeared in search results but could not be confirmed against EMCC's register, and is not printed.",
+        "No book."
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "sameera-ali-baba",
+      "name": "Sameera Ali Baba",
+      "location": "Bahrain",
+      "role": "Owner, Mubadara for Business Consultancy; Director of Learning and Lead CoachME Faculty MENA; past President, ICF Bahrain",
+      "links": [
+        {
+          "label": "Profile",
+          "url": "https://beckett-mcinroy.com/our-team/sameera-ali-baba/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/sameeraalibaba/"
+        },
+        {
+          "label": "ICF profile",
+          "url": "https://coachingfederation.org/person/sameera-baba/"
+        }
+      ],
+      "bio": "Bahraini entrepreneur who built her career in training, delivering accredited coach education in both Arabic and English and designing programmes matched to clients' cultural context. Past President of ICF Bahrain, board member of the Bahrain Society for Training and Development, and Director of Learning and Lead CoachME Faculty for MENA at Beckett McInroy Consultancy.",
+      "assessment": [
+        "MCC and ACTC corroborated on ICF's own person page, alongside EMCC Senior Practitioner and ESIA supervisor status. Delivering accredited coach training <em>in Arabic</em> is the substantive point: most coach education reaching the Gulf is imported and English-only, and building it in the working language of the region is a contribution the international recognition bodies have no way of seeing.",
+        "Her supervision accreditation matters more than it looks. Supervising other coaches is a generosity marker under this methodology — it is unpaid-in-reputation work that raises the standard of everyone else's practice."
+      ],
+      "notes": [
+        "Past presidency of ICF Bahrain is a peer-elected role, not an award. No award verified.",
+        "\"SCRUM MASTER II\" and \"CMCC\" appear in her credential string with no issuing body stated and are disregarded. A training award from HABC is self-stated with no year.",
+        "The \"40+ workshops per year\" figure is self-reported. No books."
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "fatima-nakhjavanpur",
+      "name": "Fatima Nakhjavanpur",
+      "location": "Dubai, United Arab Emirates",
+      "role": "Founder and Managing Director, Choice HR Consultancy; faculty, Ashridge / Hult International Business School",
+      "links": [
+        {
+          "label": "coachingchoice.com",
+          "url": "https://coachingchoice.com/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/fatimanakhjavanpur/"
+        }
+      ],
+      "bio": "Founder and Managing Director of Choice HR Consultancy, coaching in Dubai and the wider region since 2009. She works with business leaders, professionals and government officials, runs a mentoring programme for young women, and practises in English, French and Persian.",
+      "assessment": [
+        "Her MCC is verified on ICF's own events platform, and that same platform publishes her coaching specialties as \"Board level, C-Suite\" — one of very few ICF-published confirmations of C-suite practice anywhere in this study. For a ranking of executive coaches specifically, an independent statement of the tier someone actually works at is worth more than a list of certifications.",
+        "Faculty membership at Ashridge / Hult and front-of-the-room leadership for the Co-Active Training Institute both put her in front of other practitioners rather than only clients. She gave a live master coaching demonstration at the ICF-MCC MENA Coachathon in May 2023, run jointly by eight regional chapters — demonstrating method in public rather than describing it."
+      ],
+      "notes": [
+        "<strong>Currency flag.</strong> Her site's assets and copy run 2017–2024 and the page was last modified in July 2024. This entry should be re-confirmed at the January review, and readers should verify she is taking clients before approaching her.",
+        "No books. A Forbes Middle East interview is linked from her media page but the link is old and was not confirmed to resolve."
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "fatema-al-tahoo",
+      "name": "Fatema Al Tahoo",
+      "location": "Manama, Bahrain",
+      "role": "Executive and agile leadership coach; President, ICF Bahrain Chapter 2026–2027",
+      "links": [
+        {
+          "label": "fatemaaltahoo.com",
+          "url": "https://fatemaaltahoo.com/"
+        },
+        {
+          "label": "ICF Bahrain chapter",
+          "url": "https://icfbahrainchapter.com/chapter-leaders/"
+        },
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/fatema.altahoo/"
+        }
+      ],
+      "bio": "Bahraini coach specialising in agile leadership, team development and executive coaching. She offers one-to-one coaching for team and executive leaders, group coaching linking organisational vision to daily operations, and a proprietary Agile Leadership Coaching Cards product. Director of Events on the ICF Bahrain 2024–25 board and President of the chapter for 2026–2027.",
+      "assessment": [
+        "Her PCC is corroborated in two independent ICF-controlled places — the ICF Bahrain member directory and ICF's global events platform — which is a stronger evidentiary position than most entries in this region manage.",
+        "She is a GCC national building a practice in Arabic, and her coaching-cards product is a tangible instrument other practitioners can use rather than a service description. Leading a national chapter at this stage of a career is a meaningful commitment of unpaid time to the profession."
+      ],
+      "notes": [
+        "Her own site's page title reads \"PPC-ICF\" — a typo for PCC, but a careless one on a credential.",
+        "Her doctoral-researcher status is self-reported through her ICF bio only, with no institution or programme named, and is not printed as a qualification.",
+        "A MENA Coaching Summit 2025 speaking slot is indexed but the page returned empty and it is not asserted here. Site content is largely dated 2023. No book, no award verified. Chapter presidency is an elected role, not an honour."
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "soha-chahine",
+      "name": "Dr Soha Chahine",
+      "location": "Dubai, United Arab Emirates",
+      "role": "Organisational psychologist; Founder, Forward Training &amp; Consulting FZE",
+      "links": [
+        {
+          "label": "forwardtraining.me",
+          "url": "https://www.forwardtraining.me/about-thefounder"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/sohachahine/"
+        }
+      ],
+      "bio": "Organisational psychologist and founder of Forward Training &amp; Consulting FZE, advising CEOs, board members and C-suite executives across government, semi-government, multinational and family-held organisations in all six GCC states. Doctorate in Organizational Psychology; MSc in HR Management and Training; Harvard Business School executive programme in Leading Change and Organizational Renewal.",
+      "assessment": [
+        "She has the strongest publication record in this region by some distance, and it is the reason she is ranked despite the flags below. She writes for <em>Harvard Business Review Arabia</em> with her own author page, was featured in <em>Forbes Bahrain</em> in June 2026, has appeared in <em>Economy Middle East</em>, and delivered a TEDx talk. Writing substantively in Arabic for HBR is teaching in public at a level almost nobody else here reaches.",
+        "Practising across all six GCC states as an organisational psychologist rather than a certified-programme deliverer gives her a different and useful vantage on regional leadership."
+      ],
+      "notes": [
+        "<strong>Her headline recognition is excluded.</strong> Thinkers360 \"Top 25 Global Thought Leaders\" and \"Top 50 in Coaching\" rankings are membership and self-nomination driven and are not independent awards. They are not counted here, and no ranking that counts them is measuring what it claims to.",
+        "A \"2026 Global Recognition Award\" was announced through a paid press-release wire feed rather than editorial coverage, and is excluded.",
+        "A \"UN Arab Women Ambassador for Human Sustainability\" title is self-stated and could not be verified against any UN source. Her ICF PCC is self-claimed and not corroborated on an ICF property. The HBR Arabia and Forbes Bahrain items are the only recognition treated as genuine."
+      ]
+    },
+    {
+      "rank": 10,
+      "slug": "gaj-ravichandra",
+      "name": "Gaj Ravichandra",
+      "location": "Dubai, United Arab Emirates",
+      "role": "Co-Founder and Managing Partner, Kompass Consultancy; registered psychologist",
+      "links": [
+        {
+          "label": "kompassconsultancy.com",
+          "url": "https://kompassconsultancy.com/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/gaj-ravichandra/"
+        }
+      ],
+      "bio": "Co-Founder and Managing Partner of Kompass Consultancy, the AoEC's GCC and Levant delivery partner. A registered psychologist and high-performance coach who has worked with global corporates, government departments, educational institutions and sporting teams. Kompass states more than 15,000 coaching hours delivered internationally.",
+      "assessment": [
+        "He is included on an explicitly different credential path from everyone else on this list, and the reasoning should be stated rather than glossed: he holds no ICF credential at all. What he holds instead is chartered psychology — MAPS with the Australian Psychological Society, MAICD with the Australian Institute of Company Directors — which is a longer and more regulated qualification route than any coaching certification.",
+        "He writes the Kompass blog and has kept it active through 2026, which is more sustained public teaching than most of this region's practitioners produce."
+      ],
+      "notes": [
+        "<strong>No ICF credential on any page checked</strong> — notable given his business partner holds PCC, and a real weakness against the credential criterion. He ranks tenth for that reason.",
+        "The registering jurisdiction for \"Reg Psych\" is not stated anywhere and could not be established.",
+        "\"Recognised High Performance Coach\" is site marketing copy, not an award. No books, no award verified."
+      ]
+    }
+  ],
+  "ones_to_watch": [
+    {
+      "name": "Ebru Goksu Yildirim",
+      "location": "Dubai, United Arab Emirates",
+      "url": "https://www.aoec.com/about-us/our-people/",
+      "text": "ICF PCC, AoEC faculty, CPCC from the Co-Active Training Institute, ORSC and systemic team coaching. Coaching individuals, executives and teams since 2011 after roughly twenty years as a senior marketing-communications professional across MENAT, working bilingually in English and Turkish.",
+      "note": "She appears here rather than in the ten because she has no independent web presence — she is visible only through two firms' pages — and no books, speaking record or awards could be verified. \"NLP\" is listed with no issuing body."
+    },
+    {
+      "name": "Salman Amjad",
+      "location": "Dhahran, Saudi Arabia",
+      "url": "https://icfconverge2023.eventscribe.net/fsPopup.asp?mode=presenterinfo&HPRID=1984005",
+      "text": "Coaching Lead for the Talent Assessment and Coaching unit at Saudi Aramco, Director of Innovation and Development for the ICF Saudi Arabia Chapter, and a member of the MENA Coaching Culture Council. ICF PCC, stated on ICF's own Converge 2023 presenter page.",
+      "note": "He is an in-house corporate coach rather than an independent practice — a reader cannot engage him — which is why he is named here rather than ranked. He is also the strongest Saudi-based file found, and the clearest illustration of the coverage gap this edition discloses."
+    },
+    {
+      "name": "Jeanine Bailey and Marie Quigley",
+      "location": "Doha, Qatar",
+      "url": "https://www.empower-world.com/about-us",
+      "text": "Co-founders of Empower World, an ICF-accredited coach-training and coaching firm operating from Doha since 2012, with named multi-year testimonials from the Head of HR at Vodafone Qatar and a succession-planning manager at Ooredoo Qatar.",
+      "note": "Both are held back for the same reason: their own website states two different ICF credential levels for each of them on different pages — MCC on one, Associate Certified Coach on another. Quigley's credential line also conflates CPCC, a Co-Active training designation, with ICF's PCC credential, which is precisely the confusion this ranking is built to catch."
+    }
+  ],
+  "not_included": [
+    {
+      "name": "Dr Iftikhar Nadeem",
+      "text": "Excluded on credential integrity, and named here because the reasoning matters more than the omission. A single team page on his own site asserts, simultaneously: a heading reading \"MCC\"; body text describing his \"Professional Certified Coach (PCC) credential from ICF\"; body text describing him as a \"PhD candidate\" at Canterbury Christ Church University; and a caption reading \"PhD in Leadership Coaching.\" Two different ICF levels and two different doctoral statuses, on one page — with the cautious readings in the prose and the promotional ones in the heading and caption. Neither the credential nor the doctorate is verified by any source that is not his own marketing, and a further claim to have chaired ICF's Global Board for Coaching in Organizations could not be verified against ICF. His practice may well be substantial; the documentation is not, and a ranking that discounts unverifiable claims elsewhere cannot make an exception here."
+    },
+    {
+      "name": "Dr Maryam Mohammed Al Emadi",
+      "text": "President of the ICF Doha Chapter, ICF PCC listed on ICF's own events platform, and quoted in the Qatar Tribune in June 2026 on the four-year partnership between Qatar's Ministry of Public Health and the chapter. Excluded on category rather than quality: she is a Senior Consultant Family Physician and Director of Clinical Operations at Primary Health Care Corporation who coaches within Qatar's public-health leadership system. There is no coaching practice a reader could engage. Chapter presidency is an elected volunteer role, not an award."
+    }
+  ],
+  "outstanding": [
+    "Saudi Arabia coverage — icfsaudichapter.com blocks automated access, so chapter leadership could not be resolved. A manual pass is the first priority for the January review.",
+    "Fatima Nakhjavanpur's practice currency — site last modified July 2024; confirm she is taking clients",
+    "Jeanine Bailey's and Marie Quigley's actual ICF credential levels, which their own site contradicts",
+    "Whether Rania Laing, PCC — ICF Foundation Trustee and former ICF UAE president — is UAE or UK based; ICF's own 2026 release says United Kingdom while other sources place her in the Gulf",
+    "Kuwait: no candidate surfaced at the evidence bar used here. Not an absence of practitioners, an absence of published evidence."
+  ]
+}
