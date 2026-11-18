@@ -1,0 +1,58 @@
+{
+  "about.html": {
+    "lastmod": "2026-11-18",
+    "sha256": "4b774672b57ba9a1b62aceb9200619dc98f153330449a4e75bd1fc8c2aab0188"
+  },
+  "coaches/carolann-philips.html": {
+    "lastmod": "2026-11-18",
+    "sha256": "5367985ac253d3d9b381b48ee1ed98346b9a2d69ce28ff9efd69bca2537c91c8"
+  },
+  "coaches/clare-beckett-mcinroy.html": {
+    "lastmod": "2026-11-18",
+    "sha256": "af78834f2460a40cb320845f7fa10f308126d28cd3feb9004c35db226c1bcc39"
+  },
+  "coaches/fatema-al-tahoo.html": {
+    "lastmod": "2026-11-18",
+    "sha256": "c9775b0ccb8134052609e7e04f06cd01b194fb3361102e8ec43fc4f7928c133f"
+  },
+  "coaches/fatima-nakhjavanpur.html": {
+    "lastmod": "2026-11-18",
+    "sha256": "9666014f9e477eb0b631dc5d7a46b359dc9138d2504840d14c17f78624f0c2ae"
+  },
+  "coaches/gaj-ravichandra.html": {
+    "lastmod": "2026-11-18",
+    "sha256": "6ef3690effafadca307d578ba0aaeb3de954039bbba80fd3a4962f6f43e2a656"
+  },
+  "coaches/jihane-labib.html": {
+    "lastmod": "2026-11-18",
+    "sha256": "5b2a7338e94841a64e58831d8e8dc27e9895e393b75607a747bd655c96e27bf2"
+  },
+  "coaches/leila-rezaiguia.html": {
+    "lastmod": "2026-11-18",
+    "sha256": "3048d5b8ed4aa71ba4497bd288348b13eb7ac182caf774ae4d40395f3aac1313"
+  },
+  "coaches/lina-el-assaad.html": {
+    "lastmod": "2026-11-18",
+    "sha256": "66e704ebf934c33fecbad0d31d8d88c6acf97384aca60aa7927dbb86e2e291b6"
+  },
+  "coaches/sameera-ali-baba.html": {
+    "lastmod": "2026-11-18",
+    "sha256": "7f301f4094516051b5b4c5863abb96ff14ac75f2bd41a3cc6a6d87b3ebf142c2"
+  },
+  "coaches/soha-chahine.html": {
+    "lastmod": "2026-11-18",
+    "sha256": "7ef33cb3fba9b678bc5412f21ec2613721930056a060b35039e5dd0e8103330b"
+  },
+  "curator.html": {
+    "lastmod": "2026-11-18",
+    "sha256": "9dc444009066795be654635a108efa727b741e13bc8de3c6cb9218b62fecbfec"
+  },
+  "index.html": {
+    "lastmod": "2026-11-18",
+    "sha256": "4e1f09a1da0cf4dfc7ba172cf0e9a0446fb949f325154d9b09b65abc08d3fe20"
+  },
+  "nominate.html": {
+    "lastmod": "2026-11-18",
+    "sha256": "9fbb28a0aadf436b87b6e9e4df2fb033646afe4ba632c5c60018801c5ee2f87d"
+  }
+}

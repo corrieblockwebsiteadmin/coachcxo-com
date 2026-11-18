@@ -9,6 +9,184 @@
     "curator": "Dr Corrie Jonn Block",
     "contact": "admin@coachcxo.com"
   },
+  "pages": {
+    "about": {
+      "h1": "About this ranking: how Gulf coaches are assessed",
+      "blocks": [
+        {
+          "meta": "This page sets out the rubric applied to every entry on this list of coaches practising in the Gulf. Nothing in it is held back, so a coach on the list or off it can follow the reasoning from start to finish."
+        },
+        {
+          "h2": "What the GCC list is, and the question it asks"
+        },
+        {
+          "p": "This is an editorial ranking of executive coaches practising in the Gulf. One named individual curates it, and every entry is put together from public information. Placement cannot be bought, inclusion is never charged for, and no coach is asked to approve an entry before it is published."
+        },
+        {
+          "p": "Fame in the region is not the test. The test is whether a coach has visibly advanced the practice and taught it in the open."
+        },
+        {
+          "h2": "How the criteria are weighted"
+        },
+        {
+          "insert": "weights"
+        },
+        {
+          "small": "Every score is an editorial judgement against the published record, not the output of a formula. The percentages describe where the emphasis lies; they are not arithmetic from which a rank falls out automatically, and to suggest otherwise would be false precision."
+        },
+        {
+          "h2": "Judging the teaching"
+        },
+        {
+          "p": "To score teaching in public, three to five recent pieces by each candidate are read against six markers, and the score is based on the best three published in the last 24 months. Each entry cites the pieces read, so that a reader can test the judgement rather than accept it."
+        },
+        {
+          "insert": "markers"
+        },
+        {
+          "h2": "One network, one signal"
+        },
+        {
+          "p": "A large part of the recognition available to executive coaches flows from one connected network. Thinkers50's Coaching Legends programme is run in partnership with Marshall Goldsmith's 100 Coaches, the Thinkers50 coaching award bears Goldsmith's name, and a large proportion of the coaches it has honoured belong to 100 Coaches."
+        },
+        {
+          "p": "Counting a Legend induction, a Coaches50 listing, 100 Coaches membership and a Goldsmith endorsement as four independent validations would considerably overstate how independent they are. <strong>On this list that network is one signal, counted at the level of its strongest single element.</strong> Recognition from genuinely separate sources, for example peer-reviewed publication, a university appointment, governance of a professional body or national press coverage, is counted on its own and given more weight for being independent."
+        },
+        {
+          "p": "The curator is subject to the same adjustment as every coach on the list."
+        },
+        {
+          "h2": "Recognition that does not count, and why"
+        },
+        {
+          "p": "<strong>Writing on a paid platform is not marked down. The platform simply cannot serve as evidence of recognition.</strong> Being published on a fee-paying platform tells a reader nothing about the quality of the thinking, and good work appears on such platforms routinely. The one thing it cannot do is substitute for independent judgement, since no one independent selected the piece."
+        },
+        {
+          "ul": [
+            "<strong>Councils and expert panels</strong> charge for membership. Posts a coach publishes through them are read and scored on merit, the same as any other writing; the membership is never counted as recognition.",
+            "<strong>Global Gurus</strong> gives public website votes 30% of the weight in its own published methodology, is open to self-nomination and is funded by advertising. A position on it is reported as a placement on a partly public-vote listing and is never described as an award.",
+            "<strong>Paid directory listings, sponsored profiles and awards with entry fees</strong> are kept out of the recognition score completely."
+          ]
+        },
+        {
+          "p": "Ignored entirely: follower counts; superlatives a coach claims for themselves, unless a named third party can be shown to have said them; client logos where the engagement has not been publicly disclosed; and any claim without a source that can be cited."
+        },
+        {
+          "h2": "Generosity, made checkable"
+        },
+        {
+          "p": "Without a definition this criterion would be a matter of taste. These are the observable proxies it is scored on:"
+        },
+        {
+          "insert": "generosity"
+        },
+        {
+          "h2": "The evidence standard"
+        },
+        {
+          "ul": [
+            "Each factual claim can be traced to a public source that can be cited, and the access date is recorded.",
+            "Credentials are reported as published, not as verified, unless they have been checked against the issuing body. The ICF register states in its own disclaimer that ICF does not verify the qualifications listed, so entries say “as published by” instead of implying that the register was checked.",
+            "If a claim cannot be sourced, it does not appear. No gap is filled by estimate or inference.",
+            "Superlatives are credited, where they appear, to the person who made them.",
+            "Clients are named only when the client or the coach has disclosed the engagement in public."
+          ]
+        },
+        {
+          "h2": "Correcting or leaving the list"
+        },
+        {
+          "p": "Corrections supported by evidence are made when requested, and each one is logged. A listed coach who asks to come off the list is taken off promptly and without argument. The address is <a href=\"mailto:{contact}\">{contact}</a>."
+        },
+        {
+          "p": "Placement on this list is not for sale. Should that ever change, every affected entry would be marked as advertising, and this methodology would be void."
+        },
+        {
+          "h2": "Review cycle"
+        },
+        {
+          "p": "This site is reviewed quarterly. The network's three rankings, this one, the women's list at <a href=\"https://csuitecoach.org/\">csuitecoach.org</a> and the global list at <a href=\"https://cxocoaches.com/\">cxocoaches.com</a>, are reviewed in staggered months, one each month, so each list keeps a genuine quarterly rhythm and the three do not all change on the same day. Changes from one edition to the next should be small, a position or two and only on evidence. If most of the names moved every quarter, it would not be a ranking."
+        },
+        {
+          "p": "Every cycle checks each live claim again, renews sources and access dates, assesses the nomination queue against these criteria, and ends with a dated changelog saying what moved and why."
+        }
+      ]
+    },
+    "curator": {
+      "h1": "The curator of the GCC list",
+      "blocks": [
+        {
+          "meta": "A full account of who owns this site, who decides the Gulf ranking, and what the decisions rest on."
+        },
+        {
+          "h2": "{curator}"
+        },
+        {
+          "p": "This site and its ranking of executive coaches practising in the Gulf are owned, curated and published by {curator}, an academic who also practises as an executive coach. The ranking is his editorial judgement: it applies the <a href=\"/about.html\">published methodology</a> to evidence taken from public sources."
+        },
+        {
+          "h2": "Interests declared"
+        },
+        {
+          "ul": [
+            "Besides this domain, he owns the two sister rankings in the network: the women's list at <a href=\"https://csuitecoach.org/\">csuitecoach.org</a> and the global list at <a href=\"https://cxocoaches.com/\">cxocoaches.com</a>.",
+            "He has no ranked entry on any of the three. The person deciding the list is not on the list.",
+            "Placement is never bought. Coaches are not charged for inclusion and are not contacted for approval ahead of publication.",
+            "Because he practises as an executive coach, he is a competitor of several coaches on this list. For that reason the methodology, the weighting and each exclusion are all published in full, so that his reasoning can be checked instead of trusted.",
+            "He is subject to the interlink adjustment in the methodology on exactly the same terms as any coach listed."
+          ]
+        },
+        {
+          "h2": "An academic's reason for doing this"
+        },
+        {
+          "p": "The profession is under sustained pressure, and largely fair pressure, for its lack of an evidence base. Coaching rankings have tended to carry the same weakness: they recycle self-reported accolades, present paid placements as honours and repeat superlatives that nobody can source."
+        },
+        {
+          "p": "This ranking is built the other way round. Published and peer-reviewed work carries weight; the writing is read, not counted; recognition that proves to be one network endorsing itself is discounted; and whatever could not be verified is printed as unverified."
+        },
+        {
+          "h2": "Elsewhere"
+        },
+        {
+          "p": "<a href=\"https://www.corrieblock.com/\" rel=\"noopener\">corrieblock.com</a>"
+        },
+        {
+          "h2": "Writing to the curator"
+        },
+        {
+          "p": "Send corrections, removal requests and any editorial correspondence to <a href=\"mailto:{contact}\">{contact}</a>."
+        }
+      ]
+    },
+    "nominate": {
+      "h1": "Nominate a coach practising in the Gulf",
+      "blocks": [
+        {
+          "meta": "At every quarterly review, nominations are assessed against the <a href=\"/about.html\">published rubric</a>. You can nominate yourself or another coach. A place is never guaranteed, and payment plays no part at any stage."
+        },
+        {
+          "p": "The most useful nominations name particular published work, whether a paper, an essay, a talk or a framework the coach has given away, instead of listing accolades. Tell us what the coach wrote and what made it good."
+        },
+        {
+          "insert": "form"
+        },
+        {
+          "h2": "What we do with a nomination"
+        },
+        {
+          "ul": [
+            "Each one is read at the next quarterly review and assessed against the published rubric.",
+            "Nominations are held for this review cycle and the next, and are then deleted.",
+            "The nominee's details are used editorially. A coach nominated by someone else is not put on any mailing list: no one can give marketing permission for another person. If that coach is listed, they get a single editorial email telling them, which carries its own opt-in link in case they want to hear more.",
+            "When you submit, a record of the nomination is created in our mailing system so we can reply to you about it. This is editorial correspondence, not marketing.",
+            "To withdraw, write to <a href=\"mailto:{contact}\">{contact}</a> at any time.",
+            "We do not publish nominations. Coaches who make the list appear in the ranking or under Ones to Watch, and those who do not are not named."
+          ]
+        }
+      ]
+    }
+  },
   "editorial_note": [
     "This list asks a different question from its global sister ranking. A trade book with international distribution is a weak proxy for effectiveness in the Gulf, where much of the strongest work is done inside national talent programmes, family-business succession and public-sector leadership development. Ranking Gulf practitioners against a global bibliography would produce a list of expatriate authors rather than the best coaches in the region. Publication therefore carries less weight here, and regional contribution carries more.",
     "<strong>Every credential below was checked, and most could not be verified the way readers assume.</strong> ICF's Credentialed Coach Finder is an application that cannot be queried by URL, and ICF itself states that \"the qualifications of coaches listed, and the information provided is not verified by ICF in any way.\" Where this list says a credential is verified, it means it appears on an ICF-owned property — strong, but not a registry lookup. Exactly one credential in the entire study was confirmed against the issuing body's own record: Carolann Philips's MCC, on Credly.",
@@ -157,8 +335,8 @@
           "url": "https://www.linkedin.com/in/leila-rezaiguia/"
         },
         {
-          "label": "AoEC people directory",
-          "url": "https://www.aoec.com/about-us/our-people/"
+          "label": "AoEC UAE",
+          "url": "https://www.aoec.com/uae/"
         }
       ],
       "bio": "Co-Founder and Managing Partner of Kompass Consultancy in Dubai and Head of the Academy of Executive Coaching in the UAE, confirmed on AoEC's own people directory. Executive and systemic team coach, accredited coach supervisor and ICF mentor coach with 23–25 years across public and private sectors, coaching in English, Arabic and French.",
@@ -319,7 +497,7 @@
     {
       "name": "Ebru Goksu Yildirim",
       "location": "Dubai, United Arab Emirates",
-      "url": "https://www.aoec.com/about-us/our-people/",
+      "url": "https://www.aoec.com/uae/",
       "text": "ICF PCC, AoEC faculty, CPCC from the Co-Active Training Institute, ORSC and systemic team coaching. Coaching individuals, executives and teams since 2011 after roughly twenty years as a senior marketing-communications professional across MENAT, working bilingually in English and Turkish.",
       "note": "She appears here rather than in the ten because she has no independent web presence — she is visible only through two firms' pages — and no books, speaking record or awards could be verified. \"NLP\" is listed with no issuing body."
     },
